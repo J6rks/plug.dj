@@ -2,7 +2,7 @@
 "room": "Chillout on plug.dj",
 "author": "Jörks",
 "icon": null,
-"css": "https://rawgit.com/warrior1990/plug.dj/master/style.css",
+"css": "https://rawgit.com/j6rks/chillout-community/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
@@ -37,7 +37,7 @@
 "bouncer": null,
 "rdj": null,
 "subscriber": null,
-"silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+"silversubscriber": null
 },
 "emotes": {
 }
