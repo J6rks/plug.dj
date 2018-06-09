@@ -2,7 +2,7 @@
 "room": "Chillout on plug.dj",
 "author": "Meøw",
 "icon": null,
-"css": "https://rawgit.com/j6rks/chillout-community/master/style.css",
+"css": null,
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
