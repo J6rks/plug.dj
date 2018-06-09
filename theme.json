@@ -2,7 +2,7 @@
 "room": "Chillout on plug.dj",
 "author": "Meøw",
 "icon": null,
-"css": null,
+"css": "https://rawgit.com/j6rks/chillout-community/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
@@ -27,7 +27,7 @@
 "user": "#9299A8"
 },
 "images":{
-"background": "https://cdn.radiant.dj/rcs/bg/plugalphaLounge.jpg",
+"background": null,
 "playback": null,
 "admin": null,
 "ambassador": null,
